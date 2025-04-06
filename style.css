@@ -47,6 +47,7 @@ body {
 
 .event .emoji i {
   font-size: 32px;
+  color: #fff;
 }
 
 .event .badge {
